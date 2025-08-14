@@ -1,0 +1,27 @@
+# Basic Libraries for python 
+pandas
+matplotlib
+seaborn
+
+# machie learnign
+scikit-learn
+
+# deep learning
+transformers
+sentence-transformers
+accelerate
+huggingface_hub
+datasets
+
+# Langchain Installations
+langchain
+langchain-core
+langchain-community
+langgraph
+
+
+# embedding store
+faiss-cpu
+
+# deployment
+uvicorn
