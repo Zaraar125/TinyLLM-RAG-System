@@ -25,3 +25,7 @@ faiss-cpu
 
 # deployment
 uvicorn
+fastapi
+python-multipart
+# computer vision
+opencv-python
