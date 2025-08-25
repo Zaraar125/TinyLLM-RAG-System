@@ -37,8 +37,8 @@ if __name__ == "__main__":
         if query.lower() == "exit":
             break
 
-        # results = retrieve_top_k(query)
-        # context = "\n".join([text for text, _ in results])
+        results = retrieve_top_k(query)
+        context = "\n".join([text for text, _ in results])
 
         print("\n🤖 Generating answer...\n")
         context='temp'
