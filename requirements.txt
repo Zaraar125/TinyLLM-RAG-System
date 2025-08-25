@@ -6,6 +6,8 @@ seaborn
 # machie learnign
 scikit-learn
 
+# pdf reading 
+pypdf
 # deep learning
 transformers
 sentence-transformers
@@ -18,7 +20,7 @@ langchain
 langchain-core
 langchain-community
 langgraph
-
+langchain[google-genai]
 
 # embedding store
 faiss-cpu
@@ -29,3 +31,6 @@ fastapi
 python-multipart
 # computer vision
 opencv-python
+
+# for beautification of prompt output
+rich
